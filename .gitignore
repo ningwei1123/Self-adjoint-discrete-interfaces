@@ -1,0 +1,22 @@
+# LaTeX intermediates
+*.aux
+*.log
+*.blg
+*.bbl
+*.out
+*.xdv
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.run.xml
+*.bcf
+
+# editor and OS
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+
+# manuscript snapshots
+*.bak
+*.bak_*

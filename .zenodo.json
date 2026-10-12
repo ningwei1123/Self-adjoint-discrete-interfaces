@@ -1,0 +1,15 @@
+{
+  "title": "Self-adjoint discrete interfaces for coupling finite elements with neural operators: an exact energy-matching criterion",
+  "upload_type": "software",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "Ning, Wei",
+      "orcid": "0009-0006-6563-1892"
+    }
+  ],
+  "description": "<p>Reference implementation for the manuscript: the two- and three-dimensional coupled finite-element / neural-operator solvers, the interface-transfer audit, the strong-form baselines, the operator-learning surrogates, the scripts that regenerate every table and figure, and the auditors used to check the manuscript.</p><p>The manuscript states the bounds of its own claims: the energy-matching law is proved for the series idealisation, the consistency proposition establishes consistency rather than an a priori bound, and the reported convergence rates are measured rather than derived.</p>",
+  "keywords": ["domain decomposition", "Dirichlet-to-Neumann operator",
+               "self-adjointness", "operator learning", "DeepONet",
+               "interface transfer", "hybrid solvers"]
+}

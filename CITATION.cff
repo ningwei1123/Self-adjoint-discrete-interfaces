@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the manuscript and this archive."
+title: "Self-adjoint discrete interfaces for coupling finite elements with neural operators: an exact energy-matching criterion"
+authors:
+  - family-names: "Ning"
+    given-names: "Wei"
+    orcid: "https://orcid.org/0009-0006-6563-1892"
+    affiliation: "School of Mechanical Engineering, Shaanxi University of Technology, Hanzhong 723001, Shaanxi, China"
+type: software
+license: MIT
+repository-code: "[TO THE AUTHOR: repository URL once created]"
+abstract: >-
+  Reference implementation for the coupling of a finite-element subdomain to a
+  network-represented subdomain through a self-adjoint discrete interface operator,
+  with an exact energy-matching criterion for the interface allocation.  Includes the
+  numerical artefacts behind every table and figure together with the auditors used
+  to check the manuscript.
